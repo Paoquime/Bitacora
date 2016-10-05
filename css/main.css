@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	font-size: 2em;
+}
+
+.margen {
+	margin-bottom: 30px;
+}
+.pregunta {
+	border: solid dimgrey;
+}
