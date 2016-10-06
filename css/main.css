@@ -6,6 +6,25 @@ h1 {
 .margen {
 	margin-bottom: 30px;
 }
+
 .pregunta {
 	border: solid dimgrey;
+}
+
+.textArea {
+	width: 15px;
+	height: 10px;
+	border: solid;
+}
+
+.publicarBtn {
+	width: 15px;
+	height: 10px;
+	border: solid;
+}
+
+.contenido {
+	background-color: #CCC;
+	width: 30%;
+	height: 50px;
 }
