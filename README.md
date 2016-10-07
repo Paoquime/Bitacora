@@ -1,6 +1,6 @@
 # Bitacora
 
-**Crear una Bitàcora, donde el usuario pueda escoger entre cuatro opciones que publicar: Texto, Cita, Meme o Pastilla y que cuando de click en cualquiera de ellos se despliegue un text-area y dos botones; Publicar y Cerrar. En el còdigo tienen que ser utilizados los Objetos.**
+**Crear una Bitacora, donde el usuario pueda escoger entre cuatro opciones que publicar: Texto, Cita, Meme o Pastilla y que cuando de click en cualquiera de ellos se despliegue un text-area y dos botones(publicar y cerrar). En el còdigo tienen que ser utilizados los Objetos.**
 
 **Desarrollo**
 
