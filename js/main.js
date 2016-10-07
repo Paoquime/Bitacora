@@ -6,7 +6,7 @@ window.addEventListener("load", function(){
   var pastilla = document.getElementById("cuartaOpcion");
   var body = document.getElementsByTagName("body")[0];
 
-//cuando haga click en texto se ejecuta la función despegar
+//cuando haga click en texto se ejecuta la función desplegar
 texto.addEventListener("click", function() {
     desplegar();
   });
@@ -61,11 +61,13 @@ function desplegar() {
     var min = fecha.getMinutes();
     var almacenaHora = document.createElement("div");
     almacenaHora.innerText = hora + ":" + min;
-    imprimir.insertBefore(almacenaHora, imprimir.children[2]);
+    imprimir.insertBefore(almacenaHora, imprimir.children[2]); 
 
     });
   }
 
 }); 
+
+
 
 
